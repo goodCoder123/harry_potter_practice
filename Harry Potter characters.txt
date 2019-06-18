@@ -3,3 +3,5 @@ Ronald Weasley
 Hermione Granger
 Albus Dumbledore
 Severus Snape
+Hagrid
+Prof McGonnall
