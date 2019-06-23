@@ -1,2 +1,5 @@
 Hogwarts
 Hogsmeade
+Diagon Alley
+King's cross
+The Burrow
